@@ -1,4 +1,7 @@
--- Active: 1744173411324@@crossover.proxy.rlwy.net@58207
+-- Active: 1744176015022@@shinkansen.proxy.rlwy.net@38383
+
+mysql://root:utMDXvTfeaRKRTZEjQCphvAALUKQJaDo@shinkansen.proxy.rlwy.net:38383/railway
+
 -- Crear la base de datos
 CREATE DATABASE IF NOT EXISTS sistema_gestion;
 USE sistema_gestion;
